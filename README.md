@@ -1,3 +1,15 @@
-一个使用C++来实现的简单BP神经网络，在视频中使用的源码
+# BP神经网络的C++实现
 
-[视频地址](https://www.bilibili.com/video/BV1Y64y1z7jM)
+视频地址：[彻底搞懂BP神经网络 理论推导+代码实现（C++）](https://www.bilibili.com/video/BV1Y64y1z7jM)
+
+###可能遇到的问题
+
+#### 收敛问题
+
+项目中提供的`traindata.txt`和`testdata.txt`换行符为`\r`，所以可能在Windows环境下会出现读入数据多一个空行，导致程序无法收敛。
+
+[bp网络无法收敛 · Issue #1 · GavinTechStudio/bpnn_with_cpp (github.com)](https://github.com/GavinTechStudio/bpnn_with_cpp/issues/1)
+
+#### 数据读入问题
+
+如遇到输出`Error in reading traindata.txt`，则是因为`traindata.txt`和`testdata.txt`所放位置不正确导致的，应讲这两个数据文件放到对应的可执行程序的目录下。
