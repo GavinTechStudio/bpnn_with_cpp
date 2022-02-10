@@ -12,4 +12,4 @@
 
 #### 数据读入问题
 
-如遇到输出`Error in reading traindata.txt`，则是因为`traindata.txt`和`testdata.txt`所放位置不正确导致的，应讲这两个数据文件放到对应的可执行程序的目录下。
+如遇到输出`Error in reading traindata.txt`，则是因为`traindata.txt`和`testdata.txt`所放位置不正确导致的，应将这两个数据文件放到对应的可执行程序的目录下。
