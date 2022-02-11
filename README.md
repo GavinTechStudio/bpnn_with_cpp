@@ -2,6 +2,11 @@
 
 视频地址：[彻底搞懂BP神经网络 理论推导+代码实现（C++）](https://www.bilibili.com/video/BV1Y64y1z7jM)
 
+### 注意
+
+本项目代码已重构，当前代码不再建议使用。
+重构代码项目：[GavinTechStudio/Back-Propagation-Neural-Network](https://github.com/GavinTechStudio/Back-Propagation-Neural-Network)
+
 ### 可能遇到的问题
 
 #### 收敛问题
