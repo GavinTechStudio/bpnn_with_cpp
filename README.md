@@ -4,9 +4,8 @@
 
 ### 注意
 
-本项目代码已重构，当前代码不再建议使用。
+本项目代码已重构，当前代码不再建议使用。请使用该项目：
 
-重构代码项目
 [![GavinTechStudio/Back-Propagation-Neural-Network - GitHub](https://gh-card.dev/repos/GavinTechStudio/Back-Propagation-Neural-Network.svg)](https://github.com/GavinTechStudio/Back-Propagation-Neural-Network)
 
 ### 可能遇到的问题
